@@ -2,8 +2,9 @@
 
 # Nexus 
 ## By VPM
-### Offensive Security
-
+Install:
+####  cd Nexus
+#### bash setup.sh
 ## ES
 NEXUS es un núcleo todo‑en‑uno de reconocimiento y escaneo orientado a seguridad ofensiva.
 Desde descubrimiento de hosts hasta escaneo de puertos, detección de vulnerabilidades y consultas WHOIS, NEXUS actúa como la capa inicial antes de la explotación.
